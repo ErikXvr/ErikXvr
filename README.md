@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá, eu sou o Erik!
 
-<!--
-**ErikXvr/ErikXvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tecnologias que estou explorando
 
-Here are some ideas to get you started:
+💻 Phyton, CSS, e agora brincando com PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎨 Design e Game
+
+✈️ Projetos incríveis com viagens e eventos
+
+🌍 Onde me encontrar
+
+🧠 Em dev por aqui! 🚧
 -->
