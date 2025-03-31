@@ -6,7 +6,7 @@
 ## 🧠 Habilidades e Tecnologias
 Essas são as tecnologias que mais utilizo no meu dia a dia:
 
-- 🖥️ **Frontend**: HTML, CSS, JavaScript
+- 🖥️ **Frontend**: HTML, CSS, PHP
 - ⚙️ **Backend**: Node.js, Python
 
 ## 🎮 Hobbies e Interesses
