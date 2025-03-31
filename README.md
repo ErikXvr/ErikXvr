@@ -2,13 +2,10 @@
 
 🚀 Tecnologias que estou explorando
 
-💻 Phyton, CSS, e agora brincando com PHP
-🎨 Design e Game
-
-
-
+  💻 Phyton, CSS, e agora brincando com PHP
+  🎨 Design e Game
 
 
 🌍 Onde me encontrar
-🧠 Em dev por aqui! 🚧
--->
+  🧠 Em dev por aqui! 🚧
+  -->
