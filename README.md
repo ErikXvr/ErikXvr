@@ -21,3 +21,5 @@ Aqui estão algumas das coisas que amo fazer:
 ##🌍 Onde me encontrar
 - 🧠 Em dev por aqui! 🚧
   -->
+
+## 🖤🤍 VAI CORINTHIANS !!!!!
