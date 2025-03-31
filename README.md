@@ -14,7 +14,7 @@ Aqui estão algumas das coisas que amo fazer:
 
 - 🎧 **Escutar música**:
 - 📚 **Ler um mangázinho**: 
-- 🎮 **Dar uma playada no PS5 ou no PC
+- 🎮 **Dar uma playada no PS5 ou no PC**:
 
 
 
